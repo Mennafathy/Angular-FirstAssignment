@@ -1,0 +1,32 @@
+
+body
+{
+    font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+.portfolio
+{
+    background-color: #1abc9c;
+    height: 500px;
+}
+.item h2 
+{
+    font-size: 4rem;
+    font-weight: 700;
+}
+.item .left
+{
+    width: 13%;
+    height: 4px;
+    background-color: #fff;
+}
+.item .right
+{
+    width: 13%;
+    height: 4px;
+    background-color: #fff;
+}
+.portfolio-content span
+{
+    font-size: 25px;
+    font-weight: 400;
+}

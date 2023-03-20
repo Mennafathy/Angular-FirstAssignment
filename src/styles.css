@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+.icon-divison
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icon-divison .left
+{
+    height: 4px;
+}
+.icon-divison .right
+{
+    height: 4px;
+}
